@@ -10,7 +10,7 @@ header{
 	padding:10px;
 	text-align:center;	
 }
-	.hero-sec {
+	.hero-news-section {
   vertical-align:top;
   display:inline-block;
   width:40%;
@@ -20,7 +20,7 @@ header{
   border-radius:20px;
   }
   
-  .latest-sec {
+  .latest-news-section {
   vertical-align:top;
   background-color: white;
   display:inline-block;
@@ -29,7 +29,7 @@ header{
   border-radius:20px;
   }
   
-  .pictorial-sec {
+  .pictorial-news-section {
   vertical-align:top;
   display:inline-block;
   background-color: white;
@@ -44,7 +44,7 @@ header{
   text-align:center;
   margin-top:10px;
   }
-  .pictorial-sec img{
+  .pictorial-news-section img{
   margin-top:10px;
 align-item:center;
   }
